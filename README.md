@@ -49,7 +49,7 @@ The following radios have been tested for compatibility at this time:
 |-----------------------|----------------|----------|
 | TP 9900[^tpcable]     | ✅ Tested      | v3.05.07 |
 | TP 9800[^tpcable]     | ✅ Tested      | v3.05.05 |
-| TP 9600[^tpcable]     | ❔ Untested    | —        |
+| TP 9600[^tpcable]     | ✅ Tested      | v3.04.08 |
 | TP 9400[^tpcable]     | ✅ Tested      | v2.16.09 |
 | TP 9100[^tp9100cable] | ❔ Untested    | —        |
 
