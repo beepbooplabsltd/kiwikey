@@ -72,7 +72,7 @@ The following TWI keyloaders have been tested for compatibility at this time:
 
 | Keyloader                                                                                                                           | Support status | Firmware                   |
 |-------------------------------------------------------------------------------------------------------------------------------------|----------------|----------------------------|
-| Motorola KVL 3000[^mxtohirose]                                                                                                      | ❔ Untested    | —                          |
+| Motorola KVL 3000[^mxtohirose]                                                                                                      | ✅ Tested      | 2.50.02                    |
 | Motorola KVL 3000+[^mxtohirose]                                                                                                     | ✅ Tested      | 3.53.03                    |
 | [Motorola KVL 4000](https://www.motorolasolutions.com/en_us/products/p25-products/security/kvl-4000.html)[^mxtohirose]              | ✅ Tested      | 1.3.5000.218 / SA R2.7.28  |
 | [Motorola KVL 5000](https://www.motorolasolutions.com/en_us/products/p25-products/security/kvl-5000.html)[^mxtohirose]              | ✅ Tested      | R01.10.05.00 / HSM 50.7.10 |
