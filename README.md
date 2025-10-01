@@ -5,6 +5,8 @@ The kiwi**key** is a P25 keyloading adapter that enables the use of TIA-102 stan
 
 It provides comparable functionality to the Tait TPA-SV-020 keyloading adapter box.
 
+## 🛒 [Order now!](https://shop.beepbooplabs.ltd/products/kiwikey)
+
 ![kiwi**key** with included RJ12 cable](images/kiwikey.jpg)
 
 ## Usage instructions
