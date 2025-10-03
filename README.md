@@ -78,6 +78,7 @@ The following TWI keyloaders have been tested for compatibility at this time:
 | Motorola KVL 3000+[^mxtohirose]                                                                                                     | ✅ Tested      | 3.53.03                    |
 | [Motorola KVL 4000](https://www.motorolasolutions.com/en_us/products/p25-products/security/kvl-4000.html)[^mxtohirose]              | ✅ Tested      | 1.3.5000.218 / SA R2.7.28  |
 | [Motorola KVL 5000](https://www.motorolasolutions.com/en_us/products/p25-products/security/kvl-5000.html)[^mxtohirose]              | ✅ Tested      | R01.10.05.00 / HSM 50.7.10 |
+| [Motorola KVL 7000](https://www.motorolasolutions.com/en_us/products/p25-products/security/kvl-7000.html)[^gcaitohirose]            | ❔ Untested    | —                          |
 | [Tait EnableProtect KFD](https://www.taitcommunications.com/products/tait-enable-network-management/enableprotect#KFD)[^taittiabox] | ❔ Untested    | —                          |
 | [KFDtool](https://store.kfdtool.com/)[^hirosetohirose]                                                                              | ✅ Tested      | 1.3.0                      |
 | [KFDmini](https://www.ebay.com/itm/144716303249)[^trs17tohirose]                                                                    | ✅ Tested      | 1.3.0                      |
@@ -93,6 +94,7 @@ The names "beep boop labs" and "kiwi**key**", and the alembic distiller and bird
 Any reference to KFDtool, Motorola, Tait, or any other third party manufacturer, or any of their products, is for informational purposes only. No representation is made that any such manufacturer has endorsed beep boop labs ltd or its products.
 
 
+[^gcaitohirose]: Requires Motorola [unreleased part number] portable GCAI to hirose male cable.
 [^hirosetohirose]: Requires KFDtool AC100 hirose male to hirose male cable.
 [^mxtohirose]: Requires Motorola TKN8531 MX to hirose male cable.
 [^serialcable]: Requires DE9 extension cable.
