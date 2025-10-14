@@ -82,8 +82,8 @@ The following TWI keyloaders have been tested for compatibility at this time:
 | [Tait EnableProtect KFD](https://www.taitcommunications.com/products/tait-enable-network-management/enableprotect#KFD)[^taittiabox] | ❔ Untested    | —                          |
 | [KFDtool](https://store.kfdtool.com/)[^hirosetohirose]                                                                              | ✅ Tested      | 1.3.0                      |
 | [KFDmini](https://www.ebay.com/itm/144716303249)[^trs17tohirose]                                                                    | ✅ Tested      | 1.3.0                      |
-| KFDnano *([@alexhanyuan](https://github.com/@alexhanyuan))*[^trs14tohirose]                                                         | ✅ Tested      | 1.8.7                      |
-| [KFDnano](https://www.ebay.com/usr/rentfrowj) *([@rentfrowj](https://github.com/@rentfrowj))*[^hirosetohirose][^mxtohirose]         | ✅ Tested      | 1.8.7                      |
+| KFDnano *([@alexhanyuan](https://github.com/alexhanyuan))*[^trs14tohirose]                                                         | ✅ Tested      | 1.8.7                      |
+| [KFDnano](https://www.ebay.com/usr/rentfrowj) *([@rentfrowj](https://github.com/rentfrowj))*[^hirosetohirose][^mxtohirose]         | ✅ Tested      | 1.8.7                      |
 | [KFDmicro](https://store.w3axl.com/products/kfdmicro-3d-printed-case-1)[^trs14tohirose]                                             | ✅ Tested      | 1.8.7                      |
 | [KFDpico](https://www.ebay.com/itm/297004299797)[^trs14tohirose]                                                                    | ✅ Tested      | 1.7.3                      |
 
