@@ -43,7 +43,7 @@ The kiwi**key** is guaranteed to work with the following tested radios and keylo
 
 ### Radios
 
-The kiwi**key** is designed to be compatible with all modern Tait P25 radios.
+The kiwi**key** is designed to be compatible with modern Tait P25 radios.
 
 The following radios have been tested for compatibility at this time:
 
