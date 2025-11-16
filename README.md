@@ -90,6 +90,7 @@ The following TWI keyloaders have been tested for compatibility at this time:
 
 | Keyloader                                                                                                                           | Support status | Firmware                   |
 |-------------------------------------------------------------------------------------------------------------------------------------|----------------|----------------------------|
+| [beep boop labs **bbl**key](https://github.com/beepbooplabsltd/bblkey)[^trs14tohirose]                                              | ✅ Tested      | 2.0.0                      |
 | Motorola KVL 3000[^mxtohirose]                                                                                                      | ✅ Tested      | 2.50.02                    |
 | Motorola KVL 3000+[^mxtohirose]                                                                                                     | ✅ Tested      | 3.53.03                    |
 | [Motorola KVL 4000](https://www.motorolasolutions.com/en_us/products/p25-products/security/kvl-4000.html)[^mxtohirose]              | ✅ Tested      | 1.3.5000.218 / SA R2.7.28  |
