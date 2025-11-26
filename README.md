@@ -130,6 +130,12 @@ There are two options for updating the kiwi**key** firmware:
     - Purchase a hardware programming kit to upload a provided binary to your kiwi**key**
     - [Contact us for more information](mailto:contact@beepbooplabs.ltd)
 
+## Security design
+
+As with any device that may come in contact with encryption key material, it is important to understand the security design and risk factors when using the kiwi**key**.
+
+For more information, please review the in-depth discussion of the [kiwi**key** security design](./security-design.md).
+
 ## Legal
 
 The names "beep boop labs" and "kiwi**key**", and the alembic distiller and bird with a keyhole logos, are trademarks and/or copyrighted works of beep boop labs ltd. All rights are reserved.
