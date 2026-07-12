@@ -88,21 +88,21 @@ The kiwi**key** is designed to meet the requirements of the TIA-102.AACD-A key f
 
 The following TWI keyloaders have been tested for compatibility at this time:
 
-| Keyloader                                                                                                                           | Support status | Firmware                   |
-|-------------------------------------------------------------------------------------------------------------------------------------|----------------|----------------------------|
-| [beep boop labs **bbl**key](https://github.com/beepbooplabsltd/bblkey)[^trs14tohirose]                                              | ✅ Tested      | 2.0.0                      |
-| Motorola KVL 3000[^mxtohirose]                                                                                                      | ✅ Tested      | 2.50.02                    |
-| Motorola KVL 3000+[^mxtohirose]                                                                                                     | ✅ Tested      | 3.53.03                    |
-| [Motorola KVL 4000](https://www.motorolasolutions.com/en_us/products/p25-products/security/kvl-4000.html)[^mxtohirose]              | ✅ Tested      | 1.3.5000.218 / SA R2.7.28  |
-| [Motorola KVL 5000](https://www.motorolasolutions.com/en_us/products/p25-products/security/kvl-5000.html)[^mxtohirose]              | ✅ Tested      | R01.10.05.00 / HSM 50.7.10 |
-| [Motorola KVL 7000](https://www.motorolasolutions.com/en_us/products/p25-products/security/kvl-7000.html)[^gcaitohirose]            | ❔ Untested    | —                          |
-| [Tait EnableProtect KFD](https://www.taitcommunications.com/products/tait-enable-network-management/enableprotect#KFD)[^taittiabox] | ❔ Untested    | —                          |
-| [KFDtool](https://store.kfdtool.com/)[^hirosetohirose]                                                                              | ✅ Tested      | 1.3.0                      |
-| [KFDmini](https://www.ebay.com/itm/144716303249)[^trs17tohirose]                                                                    | ✅ Tested      | 1.3.0                      |
-| KFDnano *([@alexhanyuan](https://github.com/alexhanyuan))*[^trs14tohirose]                                                         | ✅ Tested      | 1.8.7                      |
-| [KFDnano](https://www.ebay.com/usr/rentfrowj) *([@rentfrowj](https://github.com/rentfrowj))*[^hirosetohirose][^mxtohirose]         | ✅ Tested      | 1.8.7                      |
-| [KFDmicro](https://store.w3axl.com/products/kfdmicro-3d-printed-case-1)[^trs14tohirose]                                             | ✅ Tested      | 1.8.7                      |
-| [KFDpico](https://www.ebay.com/itm/297004299797)[^trs14tohirose]                                                                    | ✅ Tested      | 1.7.3                      |
+| Keyloader                                                                                                                           | Support status | Firmware                  |
+|-------------------------------------------------------------------------------------------------------------------------------------|----------------|---------------------------|
+| [beep boop labs **bbl**key](https://github.com/beepbooplabsltd/bblkey)[^trs14tohirose]                                              | ✅ Tested      | 2.0.0                     |
+| Motorola KVL 3000[^mxtohirose]                                                                                                      | ✅ Tested      | 2.50.02                   |
+| Motorola KVL 3000+[^mxtohirose]                                                                                                     | ✅ Tested      | 3.53.03                   |
+| [Motorola KVL 4000](https://www.motorolasolutions.com/en_us/products/p25-products/security/kvl-4000.html)[^mxtohirose]              | ✅ Tested      | 1.3.5000.218 / SA R2.7.28 |
+| [Motorola KVL 5000](https://www.motorolasolutions.com/en_us/products/p25-products/security/kvl-5000.html)[^mxtohirose]              | ✅ Tested      | R01.11.02 / HSM 50.7.10   |
+| [Motorola KVL 7000](https://www.motorolasolutions.com/en_us/products/p25-products/security/kvl-7000.html)[^gcaitohirose]            | ✅ Tested      | —                         |
+| [Tait EnableProtect KFD](https://www.taitcommunications.com/products/tait-enable-network-management/enableprotect#KFD)[^taittiabox] | ❔ Untested    | —                         |
+| [KFDtool](https://store.kfdtool.com/)[^hirosetohirose]                                                                              | ✅ Tested      | 1.3.0                     |
+| [KFDmini](https://www.ebay.com/itm/144716303249)[^trs17tohirose]                                                                    | ✅ Tested      | 1.3.0                     |
+| KFDnano *([@alexhanyuan](https://github.com/alexhanyuan))*[^trs14tohirose]                                                          | ✅ Tested      | 1.8.7                     |
+| [KFDnano](https://www.ebay.com/usr/rentfrowj) *([@rentfrowj](https://github.com/rentfrowj))*[^hirosetohirose][^mxtohirose]          | ✅ Tested      | 1.8.7                     |
+| [KFDmicro](https://store.w3axl.com/products/kfdmicro-3d-printed-case-1)[^trs14tohirose]                                             | ✅ Tested      | 1.8.7                     |
+| [KFDpico](https://www.ebay.com/itm/297004299797)[^trs14tohirose]                                                                    | ✅ Tested      | 1.7.3                     |
 
 ## Firmware
 
