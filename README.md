@@ -143,7 +143,7 @@ The names "beep boop labs" and "kiwi**key**", and the alembic distiller and bird
 Any reference to KFDtool, Motorola, Tait, or any other third party manufacturer, or any of their products, is for informational purposes only. No representation is made that any such manufacturer has endorsed beep boop labs ltd or its products.
 
 
-[^gcaitohirose]: Requires Motorola [unreleased part number] portable GCAI to hirose male cable.
+[^gcaitohirose]: Requires Motorola CB000847K01 portable GCAI to hirose male cable.
 [^hirosetohirose]: Requires KFDtool AC100 hirose male to hirose male cable.
 [^mxtohirose]: Requires Motorola TKN8531 MX to hirose male cable.
 [^taittiabox]: Requires Tait T03-00059-AAAA KFD to TIA radio adapter.
